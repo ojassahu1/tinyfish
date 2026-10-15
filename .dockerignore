@@ -1,0 +1,8 @@
+.env*
+.git
+.next
+node_modules
+api/.venv
+api/__pycache__
+api/**/*.pyc
+api/competitoriq.db
